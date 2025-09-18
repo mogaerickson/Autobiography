@@ -1,2 +1,3 @@
 # Autobiography
-HTML/CSS CODE/ School project
+HTML/CSS CODE
+
